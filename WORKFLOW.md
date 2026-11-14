@@ -50,3 +50,11 @@ This convention maintains a clear project history and enables automated changelo
 - Reference the issue number in the Pull Request description.
 - Use Closes #issue-number when the PR is intended to resolve an issue.
 - Review the changes before requesting approval.
+
+## 6. Branch Management Checklist
+
+- Start development from the latest main branch.
+- Keep feature branches focused on one task.
+- Pull the latest changes when necessary.
+- Resolve merge conflicts before requesting final approval.
+- Delete merged feature branches after successful integration.
