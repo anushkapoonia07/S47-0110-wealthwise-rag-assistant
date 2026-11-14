@@ -1,0 +1,28 @@
+
+WEALTHWISE - FIRST CHAT COMPLETION
+===================================
+
+API: Ollama (OpenAI-compatible API)
+Model: llama3.2
+Endpoint: http://localhost:11434/v1/chat/completions
+HTTP Status: 200 OK
+
+USER PROMPT:
+In artificial intelligence, what does RAG stand for?
+Explain Retrieval-Augmented Generation and how it works
+in a knowledge-base assistant.
+
+ASSISTANT RESPONSE:
+RAG stands for Retrieval-Augmented Generation.
+
+It combines two processes:
+1. Retrieval: Finds relevant information from a knowledge base.
+2. Generation: Uses the retrieved information to generate
+   a relevant response to the user's question.
+
+TOKEN USAGE:
+Prompt tokens: 70
+Completion tokens: 279
+Total tokens: 349
+
+STATUS: SUCCESS
