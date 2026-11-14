@@ -43,3 +43,10 @@ This convention maintains a clear project history and enables automated changelo
 - Issues must have appropriate labels and an assigned team member.
 - Related issues must be linked in Pull Requests.
 - Issues are closed when their corresponding Pull Requests are merged.
+## 5. Issue-to-PR Workflow
+
+- Create or select a GitHub Issue before starting development.
+- Create a dedicated branch for the issue.
+- Reference the issue number in the Pull Request description.
+- Use Closes #issue-number when the PR is intended to resolve an issue.
+- Review the changes before requesting approval.
