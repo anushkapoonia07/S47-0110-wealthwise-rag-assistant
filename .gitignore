@@ -13,3 +13,4 @@ data/*
 
 outputs/*
 !outputs/.gitkeep
+!outputs/sample_output.txt
